@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jewels-davidson 
-- 👀 I’m interested in Cloud Engineering and Product Management
+- 👀 I’m currently very new to Tech, but I'm interested in Cloud Engineering and Product Management
 - 🌱 I’m currently learning Python, Linux and aws devOps fundamentals 
 - 💞️ I’m looking to collaborate on anything Cloud learning
 - 📫 How to reach me - 07062346017
