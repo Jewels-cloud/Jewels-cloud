@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Jewels-davidson 
-- 👀 I’m currently very new to Tech, but I'm interested in Cloud Engineering and Product Management
-- 🌱 I’m currently learning Python, Linux and aws devOps fundamentals 
-- 💞️ I’m looking to collaborate on anything Cloud learning
-- 📫 How to reach me - 07062346017
+- 👋 Hi, I’m @Jewels-davidson
+- 🌱 I’m currently build things with Python
+- I love to learn and grow!
+- 📫 How to reach me - 0903 248 4492 
 
 <!---
 Jewels-cloud/Jewels-cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
